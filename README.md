@@ -1,1 +1,2 @@
-# recetario
+# Recetario
+## Recetas latinoamericanas
